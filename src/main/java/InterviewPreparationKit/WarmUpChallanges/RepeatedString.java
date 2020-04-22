@@ -1,5 +1,7 @@
 package InterviewPreparationKit.WarmUpChallanges;
 
+/**https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup*/
+
 public class RepeatedString {
     static long repeatedString(String s, long n) {
         long count = 0;
