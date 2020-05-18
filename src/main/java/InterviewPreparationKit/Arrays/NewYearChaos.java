@@ -12,8 +12,7 @@ public class NewYearChaos {
     }
 
     public static void main(String[] args) {
-        int[] data = IntStream.rangeClosed(1,5).boxed().sorted((o1, o2) -> new Random().nextInt())
-                .mapToInt(a -> a).toArray();
+        int[] data = new Random().ints(1,6).distinct().limit(5).toArray();
         System.out.println(Arrays.toString(data));
         minimumBribes(data);
     }

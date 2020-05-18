@@ -11,7 +11,7 @@ public class JumpingOnTheClouds {
                 i++;
             }
             i++;
-            jumps ++;
+            jumps++;
         }
         return jumps;
     }
