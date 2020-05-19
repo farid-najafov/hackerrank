@@ -7,6 +7,8 @@ import java.util.LongSummaryStatistics;
 import java.util.Map;
 import java.util.stream.Collectors;
 
+/**https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings*/
+
 public class SherlockAndTheValidString {
     static String isValid(String s) {
         Map<Long, Long> collect = s.chars()
