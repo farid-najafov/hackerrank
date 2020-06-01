@@ -3,7 +3,9 @@ package Algorithms;
 import java.util.Arrays;
 import java.util.IntSummaryStatistics;
 
-/**https://www.hackerrank.com/challenges/mini-max-sum/problem*/
+/**
+ * https://www.hackerrank.com/challenges/mini-max-sum/problem
+ */
 public class MiniMaxSum {
     static void miniMaxSum(int[] arr) {
         IntSummaryStatistics stat = Arrays.stream(arr).summaryStatistics();

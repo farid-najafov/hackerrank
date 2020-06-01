@@ -1,7 +1,8 @@
 package Algorithms;
 
-/**https://www.hackerrank.com/challenges/divisible-sum-pairs/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
+ */
 public class DivisibleSumPairs {
     static int divisibleSumPairs(int n, int k, int[] ar) {
         int count = 0;

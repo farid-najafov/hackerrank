@@ -2,8 +2,9 @@ package Algorithms;
 
 import java.math.BigInteger;
 
-/**https://www.hackerrank.com/challenges/extra-long-factorials/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/extra-long-factorials/problem
+ */
 public class ExtraLongFactorials {
     static void extraLongFactorials(int n) {
         BigInteger res = new BigInteger("1");

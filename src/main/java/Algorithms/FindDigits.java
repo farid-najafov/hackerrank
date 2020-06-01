@@ -3,8 +3,9 @@ package Algorithms;
 import java.util.ArrayList;
 import java.util.List;
 
-/**https://www.hackerrank.com/challenges/find-digits/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/find-digits/problem
+ */
 public class FindDigits {
     static int findDigits(int n) {
         int k = n;

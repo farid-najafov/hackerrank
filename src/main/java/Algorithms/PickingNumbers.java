@@ -6,8 +6,9 @@ import java.util.Collections;
 import java.util.List;
 import java.util.stream.IntStream;
 
-/**https://www.hackerrank.com/challenges/picking-numbers/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/picking-numbers/problem
+ */
 public class PickingNumbers {
     public static int pickingNumbers(List<Integer> a) {
         List<List<Integer>> lists = new ArrayList<>();

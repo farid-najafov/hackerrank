@@ -4,7 +4,9 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.IntStream;
 
-/**https://www.hackerrank.com/challenges/diagonal-difference/problem*/
+/**
+ * https://www.hackerrank.com/challenges/diagonal-difference/problem
+ */
 public class DiagonalDifference {
     public static int diagonalDifference(List<List<Integer>> arr) {
         return Math.abs( IntStream.range(0, arr.size()).map(i ->

@@ -1,7 +1,8 @@
 package Algorithms;
 
-/**https://www.hackerrank.com/challenges/drawing-book/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/drawing-book/problem
+ */
 public class DrawingBook {
     static int pageCount(int n, int p) {
         int pages = n/2;

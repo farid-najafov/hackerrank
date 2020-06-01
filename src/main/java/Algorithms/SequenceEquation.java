@@ -4,8 +4,9 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-/**https://www.hackerrank.com/challenges/permutation-equation/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/permutation-equation/problem
+ */
 public class SequenceEquation {
     static int[] permutationEquation(int[] p) {
         int len = p.length;

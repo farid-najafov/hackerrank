@@ -3,8 +3,9 @@ package Algorithms;
 import java.util.*;
 import java.util.stream.IntStream;
 
-/**https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
+ */
 public class ClimbingTheLeaderboard {
 
     static int[] climbingLeaderboard(int[] scores, int[] alice) {

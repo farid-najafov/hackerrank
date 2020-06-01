@@ -1,16 +1,14 @@
 package Algorithms;
 
 import java.util.Arrays;
+import java.util.stream.IntStream;
 
-/**https://www.hackerrank.com/challenges/manasa-and-stones/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/manasa-and-stones/problem
+ */
 public class ManasaAndStones {
     static int[] stones(int n, int a, int b) {
-        int[] ints = new int[n];
-        for (int i = 0, j = n - 1; i < n; i++, j--) {
-            ints[i] = i * a + j * b;
-        }
-        return Arrays.stream(ints).distinct().sorted().toArray();
+        return IntStream.range(0, n).map(x -> x * a + (n - 1 - x) * b).distinct().sorted().toArray();
     }
 
     public static void main(String[] args) {

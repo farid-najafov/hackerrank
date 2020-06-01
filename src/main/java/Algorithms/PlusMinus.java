@@ -2,8 +2,9 @@ package Algorithms;
 
 import java.util.Arrays;
 
-/**https://www.hackerrank.com/challenges/plus-minus/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/plus-minus/problem
+ */
 public class PlusMinus {
     static void plusMinus(int[] arr) {
         double a = (double) Arrays.stream(arr).filter(i -> i > 0).count() / arr.length;

@@ -4,8 +4,9 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-/**https://www.hackerrank.com/challenges/happy-ladybugs/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/happy-ladybugs/problem
+ */
 public class HappyLadyBugs {
     public static boolean alreadyHappy(String s) {
         if (s.length() == 2 && s.charAt(0) != s.charAt(1)) return false;

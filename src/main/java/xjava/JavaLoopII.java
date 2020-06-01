@@ -2,8 +2,9 @@ package xjava;
 
 import java.util.Scanner;
 
-/**https://www.hackerrank.com/challenges/java-loops/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/java-loops/problem
+ */
 public class JavaLoopII {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

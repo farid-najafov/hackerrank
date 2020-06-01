@@ -3,8 +3,9 @@ package Algorithms;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-/**https://www.hackerrank.com/challenges/kaprekar-numbers/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/kaprekar-numbers/problem
+ */
 public class ModifiedKaprekarNumbers {
     static boolean isKaprekar(int i) {
         int len = String.valueOf(i).length();

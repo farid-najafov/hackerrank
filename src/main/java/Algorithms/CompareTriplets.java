@@ -4,8 +4,9 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.IntStream;
 
-/**https://www.hackerrank.com/challenges/compare-the-triplets/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/compare-the-triplets/problem
+ */
 public class CompareTriplets {
     static List<Integer> compareTriplets(List<Integer> a, List<Integer> b) {
         int al = 0;

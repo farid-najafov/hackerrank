@@ -4,11 +4,11 @@ import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-/**https://www.hackerrank.com/challenges/crush/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays*/
-
+/**
+ * https://www.hackerrank.com/challenges/crush/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays
+ */
 public class ArrayManipulation {
     static long arrayManipulation(int n, int[][] queries) {
-//        List<Integer> list = IntStream.generate(() -> 0).limit(n).boxed().collect(Collectors.toList());
         List<Integer> list = IntStream.rangeClosed(0, n).map(i -> 0).boxed().collect(Collectors.toList());
         List<List<Integer>> lists = new ArrayList<>();
         List<Integer> finalList = new ArrayList<>();

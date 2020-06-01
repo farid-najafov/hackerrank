@@ -2,8 +2,9 @@ package Algorithms;
 
 import java.util.Arrays;
 
-/**https://www.hackerrank.com/challenges/birthday-cake-candles/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+ */
 public class BirthdayCakeCandles {
     static int birthdayCakeCandles(int[] ar) {
         int i = Arrays.stream(ar).max().orElseThrow(RuntimeException::new);

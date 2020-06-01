@@ -5,8 +5,9 @@ import java.util.HashSet;
 import java.util.Random;
 import java.util.Set;
 
-/**https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup*/
-
+/**
+ * https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
+ */
 public class SockMerchant {
     static int sockMerchant(int[] ar) {
         Set<Integer> set = new HashSet<>();

@@ -1,7 +1,8 @@
 package Algorithms;
 
-/**https://www.hackerrank.com/challenges/staircase/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/staircase/problem
+ */
 public class Staircase {
     static void staircase(int n) {
         for (int i = 0; i < n; i++) {

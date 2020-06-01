@@ -1,7 +1,8 @@
 package Algorithms;
 
-/**https://www.hackerrank.com/challenges/day-of-the-programmer/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/day-of-the-programmer/problem
+ */
 public class DayOfTheProgrammer {
     static boolean isLeapYear(int year) {
         return  (year < 1918 && year % 4 == 0) ||

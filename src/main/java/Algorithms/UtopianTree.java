@@ -2,7 +2,9 @@ package Algorithms;
 
 import java.util.stream.IntStream;
 
-/**hackerrank.com/challenges/utopian-tree/problem*/
+/**
+ * https://www.hackerrank.com/challenges/utopian-tree/problem
+ */
 
 public class UtopianTree {
     static class Result {

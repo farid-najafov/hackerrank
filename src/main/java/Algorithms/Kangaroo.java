@@ -1,7 +1,8 @@
 package Algorithms;
 
-/**https://www.hackerrank.com/challenges/kangaroo/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/kangaroo/problem
+ */
 public class Kangaroo {
     static String kangaroo(int x1, int v1, int x2, int v2) {
         return  (v2 - v1 == 0 || (x2 - x1) / (v1 - v2) < 0) ? "NO" :

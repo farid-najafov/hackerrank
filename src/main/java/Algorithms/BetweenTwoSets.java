@@ -3,8 +3,9 @@ package Algorithms;
 import java.util.Arrays;
 import java.util.List;
 
-/**https://www.hackerrank.com/challenges/between-two-sets/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/between-two-sets/problem
+ */
 public class BetweenTwoSets {
     public static int getTotalX(List<Integer> a, List<Integer> b) {
         int count = 0 ;

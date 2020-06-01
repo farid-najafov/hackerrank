@@ -2,8 +2,9 @@ package Algorithms;
 
 import java.util.stream.IntStream;
 
-/**https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
+ */
 public class BeautifulDaysAtTheMovies {
     static int reverse(int i) {
         int x = 0;

@@ -3,8 +3,9 @@ package Algorithms;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-/**https://www.hackerrank.com/challenges/encryption/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/encryption/problem
+ */
 public class Encryption {
     public static String encryption(String s) {
         int len = s.length();

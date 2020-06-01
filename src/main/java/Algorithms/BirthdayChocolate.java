@@ -4,8 +4,9 @@ import java.util.Collections;
 import java.util.List;
 import java.util.stream.IntStream;
 
-/**https://www.hackerrank.com/challenges/the-birthday-bar/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/the-birthday-bar/problem
+ */
 public class BirthdayChocolate {
     static int birthday(List<Integer> s, int d, int m) {
         return IntStream.rangeClosed(0, s.size() - m)

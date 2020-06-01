@@ -2,9 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="081de822-d026-4a7a-8f69-c3b2098a24f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithms/ChocolateFeast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithms/CutTheSticks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithms/FairRations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithms/FlatlandSpaceStations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithms/HalloweenSale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithms/MinimumDistances.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/ACMICPCTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/ACMICPCTeam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/AppendAndDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/AppendAndDelete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/AppleAndOrange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/AppleAndOrange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/BeautifulDaysAtTheMovies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/BeautifulDaysAtTheMovies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/BeautifulTriplets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/BeautifulTriplets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/BetweenTwoSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/BetweenTwoSets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/BirthdayCakeCandles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/BirthdayCakeCandles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/BirthdayChocolate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/BirthdayChocolate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/BonAppetit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/BonAppetit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/BreakingTheRecords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/BreakingTheRecords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/CircularArrayRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/CircularArrayRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/ClimbingTheLeaderboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/ClimbingTheLeaderboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/CompareTriplets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/CompareTriplets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/DayOfTheProgrammer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/DayOfTheProgrammer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/DesignerPDFViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/DesignerPDFViewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/DiagonalDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/DiagonalDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/DivisibleSumPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/DivisibleSumPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/DrawingBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/DrawingBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/ElectronicsShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/ElectronicsShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/Encryption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/Encryption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/EqualizeTheArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/EqualizeTheArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/ExtraLongFactorials.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/ExtraLongFactorials.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/FindDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/FindDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/GameOfThronesI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/GameOfThronesI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/GradingStudents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/GradingStudents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/HappyLadyBugs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/HappyLadyBugs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/Kangaroo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/Kangaroo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/LibraryFine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/LibraryFine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/ManasaAndStones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/ManasaAndStones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/MigratoryBirds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/MigratoryBirds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/MiniMaxSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/MiniMaxSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/ModifiedKaprekarNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/ModifiedKaprekarNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/PickingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/PickingNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/PlusMinus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/PlusMinus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/RecursiveDigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/RecursiveDigitSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/SaveThePrisoner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/SaveThePrisoner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/SequenceEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/SequenceEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/SherlockAndSquares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/SherlockAndSquares.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/Staircase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/Staircase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/TaumAndBDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/TaumAndBDay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/TimeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/TimeConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/UtopianTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/UtopianTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/ViralAdvertising.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/ViralAdvertising.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/Arrays/ArrayManipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/Arrays/ArrayManipulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/Arrays/HourglassSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/Arrays/HourglassSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/Arrays/LeftRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/Arrays/LeftRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/Arrays/MinimumSwaps2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/Arrays/MinimumSwaps2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/Arrays/NewYearChaos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/Arrays/NewYearChaos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/StringManipulation/AlternatingCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/StringManipulation/AlternatingCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/StringManipulation/MakingAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/StringManipulation/MakingAnagrams.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/StringManipulation/SherlockAndTheValidString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/StringManipulation/SherlockAndTheValidString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/WarmUpChallanges/CountingValleys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/WarmUpChallanges/CountingValleys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/WarmUpChallanges/JumpingOnTheClouds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/WarmUpChallanges/JumpingOnTheClouds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/WarmUpChallanges/RepeatedString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/WarmUpChallanges/RepeatedString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/WarmUpChallanges/SockMerchant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/WarmUpChallanges/SockMerchant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xjava/Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xjava/Anagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xjava/JavaLoopII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xjava/JavaLoopII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/xjava/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xjava/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xjava/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xjava/StringReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xjava/Subarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xjava/Subarray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +109,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../snake-servers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tinder" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -80,8 +144,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesignerPDFViewer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithms.DesignerPDFViewer" />
+    <configuration name="ManasaAndStones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms.ManasaAndStones" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -135,10 +199,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.ManasaAndStones" />
         <item itemvalue="Application.MinimumSwaps2" />
         <item itemvalue="Application.TaumAndBDay" />
         <item itemvalue="Application.BeautifulDaysAtTheMovies" />
-        <item itemvalue="Application.DesignerPDFViewer" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +224,11 @@
       <workItem from="1587896725871" duration="28396000" />
       <workItem from="1588136470580" duration="138645000" />
       <workItem from="1589475377854" duration="6437000" />
-      <workItem from="1589556157983" duration="21367000" />
+      <workItem from="1589556157983" duration="24913000" />
+      <workItem from="1590233747854" duration="11000" />
+      <workItem from="1590381134375" duration="12964000" />
+      <workItem from="1590517815061" duration="2547000" />
+      <workItem from="1590594037440" duration="25650000" />
     </task>
     <task id="LOCAL-00001" summary="-- solved">
       <created>1585659716786</created>
@@ -218,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589814591732</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="-- solved">
+      <created>1589892667939</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1589892667939</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,54 +328,54 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1588599721502" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1589814586097">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1589892666217">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1589814586097" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1585992362269">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1589892666217" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1590517034580">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585992362269" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1589892187907">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590517034580" />
+    <state width="1323" height="161" key="GridCell.Tab.0.bottom" timestamp="1590940521039">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589892187907" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1589892187906">
+    <state width="1323" height="161" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590940521039" />
+    <state width="1323" height="161" key="GridCell.Tab.0.center" timestamp="1590940521038">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589892187906" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1589892187906">
+    <state width="1323" height="161" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590940521038" />
+    <state width="1323" height="161" key="GridCell.Tab.0.left" timestamp="1590940521038">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589892187906" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1589892187907">
+    <state width="1323" height="161" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590940521038" />
+    <state width="1323" height="161" key="GridCell.Tab.0.right" timestamp="1590940521039">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589892187907" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1589472451528">
+    <state width="1323" height="161" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590940521039" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1590517647716">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589472451528" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1589472451527">
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590517647716" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1590517647716">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589472451527" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1589472451527">
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590517647716" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1590517647716">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589472451527" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1589472451527">
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590517647716" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1590517647716">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589472451527" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590517647716" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1589644487233">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589644487233" />
-    <state x="275" y="85" key="Vcs.Push.Dialog.v2" timestamp="1589814594576">
+    <state x="275" y="85" key="Vcs.Push.Dialog.v2" timestamp="1589892671655">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="85" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589814594576" />
+    <state x="275" y="85" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589892671655" />
     <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1588136502726">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -329,9 +404,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1588344678472" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589479072108">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590853017933">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589479072108" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590853017933" />
   </component>
 </project>

@@ -5,8 +5,9 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-/**https://www.hackerrank.com/challenges/circular-array-rotation/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/circular-array-rotation/problem
+ */
 public class CircularArrayRotation {
     static int[] circularArrayRotation(int[] a, int k, int[] queries) {
         List<Integer> list = Arrays.stream(a).boxed().collect(Collectors.toList());

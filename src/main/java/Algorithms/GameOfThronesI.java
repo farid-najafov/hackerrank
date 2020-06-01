@@ -2,8 +2,9 @@ package Algorithms;
 
 import java.util.stream.Collectors;
 
-/**https://www.hackerrank.com/challenges/game-of-thrones/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/game-of-thrones/problem
+ */
 public class GameOfThronesI {
     static String gameOfThrones(String s) {
         long count = s.chars()

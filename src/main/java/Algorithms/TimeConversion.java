@@ -5,8 +5,9 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**https://www.hackerrank.com/challenges/time-conversion/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/time-conversion/problem
+ */
 public class TimeConversion {
     static String timeConversion(String s) {
         DateFormat df = new SimpleDateFormat("hh:mm:ssaa");

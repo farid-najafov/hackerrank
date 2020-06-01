@@ -1,7 +1,8 @@
 package Algorithms;
 
-/**https://www.hackerrank.com/challenges/designer-pdf-viewer/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
+ */
 public class DesignerPDFViewer {
     static int designerPdfViewer(int[] h, String word) {
 //        int max = word.chars().map(i -> i - 97).map(i -> h[i]).max().orElseThrow(RuntimeException::new);

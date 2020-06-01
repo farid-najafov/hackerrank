@@ -1,7 +1,8 @@
 package xjava;
 
-/**https://www.hackerrank.com/challenges/java-negative-subarray/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/java-negative-subarray/problem
+ */
 public class Subarray {
     public static void main(String[] args) {
         int[] data = {1, -2, 4, -5, 1};

@@ -3,8 +3,9 @@ package Algorithms;
 import java.util.Arrays;
 import java.util.List;
 
-/**https://www.hackerrank.com/challenges/bon-appetit/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/bon-appetit/problem
+ */
 public class BonAppetit {
     static void bonAppetit(List<Integer> bill, int k, int b) {
         int share = (bill.stream().mapToInt(i -> i).sum() - bill.get(k)) / 2;

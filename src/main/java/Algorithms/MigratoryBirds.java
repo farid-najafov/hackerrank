@@ -6,6 +6,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
+/**
+ * https://www.hackerrank.com/challenges/migratory-birds/problem?h_r=internal-search
+ */
 public class MigratoryBirds {
     static int migratoryBirds(List<Integer> arr) {
         Map<Integer, Long> types = arr.stream()

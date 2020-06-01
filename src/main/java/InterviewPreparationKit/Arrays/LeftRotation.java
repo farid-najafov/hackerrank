@@ -5,8 +5,9 @@ import java.util.List;
 import java.util.Random;
 import java.util.stream.Collectors;
 
-/**https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays*/
-
+/**
+ * https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays
+ */
 public class LeftRotation {
     static int[] rotLeft(int[] a, int d) {
         List<Integer> list = Arrays.stream(a).boxed().collect(Collectors.toList());

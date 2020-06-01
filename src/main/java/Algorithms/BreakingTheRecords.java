@@ -2,8 +2,9 @@ package Algorithms;
 
 import java.util.Arrays;
 
-/**https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
+ */
 public class BreakingTheRecords {
     static int[] breakingRecords(int[] scores) {
         int min = scores[0];

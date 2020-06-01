@@ -1,7 +1,8 @@
 package Algorithms;
 
-/**https://www.hackerrank.com/challenges/save-the-prisoner/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/save-the-prisoner/problem
+ */
 public class SaveThePrisoner {
     static int saveThePrisoner(int n, int m, int s) {
         int x = m + s - 1;

@@ -1,7 +1,8 @@
 package Algorithms;
 
-/**https://www.hackerrank.com/challenges/sherlock-and-squares/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/sherlock-and-squares/problem
+ */
 public class SherlockAndSquares {
     static int squares(int a, int b) {
         return (int) Math.floor(Math.sqrt(b)) - (int) Math.ceil(Math.sqrt(a)) + 1;

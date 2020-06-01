@@ -2,7 +2,9 @@ package xjava;
 
 import java.util.Scanner;
 
-/**https://www.hackerrank.com/challenges/java-string-reverse/problem*/
+/**
+ * https://www.hackerrank.com/challenges/java-string-reverse/problem
+ */
 
 public class StringReverse {
     public static void main(String[] args) {

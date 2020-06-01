@@ -4,8 +4,9 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-/**https://www.hackerrank.com/challenges/recursive-digit-sum/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/recursive-digit-sum/problem
+ */
 public class RecursiveDigitSum {
     static int superDigit(String n, int k) {
         return  n.length() == 1 ? Integer.parseInt(n) :

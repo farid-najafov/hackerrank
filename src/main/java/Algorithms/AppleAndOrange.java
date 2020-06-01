@@ -3,8 +3,9 @@ package Algorithms;
 import java.util.Arrays;
 import java.util.function.IntPredicate;
 
-/**https://www.hackerrank.com/challenges/apple-and-orange/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/apple-and-orange/problem
+ */
 public class AppleAndOrange {
     static void countApplesAndOranges(int s, int t, int a, int b, int[] apples, int[] oranges) {
         IntPredicate p = x -> x >= s && x <= t;

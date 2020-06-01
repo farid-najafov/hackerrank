@@ -4,8 +4,9 @@ import java.util.Arrays;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-/**https://www.hackerrank.com/challenges/electronics-shop/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/electronics-shop/problem
+ */
 public class ElectronicsShop {
     static int getMoneySpent(int[] keyboards, int[] drives, int b) {
         return IntStream.range(0, keyboards.length)

@@ -1,7 +1,8 @@
 package Algorithms;
 
-/**https://www.hackerrank.com/challenges/append-and-delete/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/append-and-delete/problem
+ */
 public class AppendAndDelete {
     static String appendAndDelete(String s, String t, int k) {
         int i = 0;

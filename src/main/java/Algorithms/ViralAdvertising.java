@@ -1,7 +1,8 @@
 package Algorithms;
 
-/**https://www.hackerrank.com/challenges/strange-advertising/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/strange-advertising/problem
+ */
 public class ViralAdvertising {
     static int viralAdvertising(int n) {
         int acc = 0;

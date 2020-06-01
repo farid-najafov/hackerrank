@@ -4,8 +4,9 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
-/**https://www.hackerrank.com/challenges/java-anagrams/problem?h_r=next-challenge&h_v=zen*/
-
+/**
+ * https://www.hackerrank.com/challenges/java-anagrams/problem?h_r=next-challenge&h_v=zen
+ */
 public class Anagrams {
     static boolean isAnagram(String a, String b) {
         if (a.length() != b.length()) return false;

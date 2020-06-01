@@ -1,11 +1,8 @@
 package Algorithms;
 
-import java.util.Arrays;
-import java.util.List;
-import java.util.stream.Collectors;
-
-/**https://www.hackerrank.com/challenges/beautiful-triplets/problem*/
-
+/**
+ * https://www.hackerrank.com/challenges/beautiful-triplets/problem
+ */
 public class BeautifulTriplets {
     static int beautifulTriplets(int d, int[] arr) {
         int count = 0;

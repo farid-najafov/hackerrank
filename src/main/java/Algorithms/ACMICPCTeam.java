@@ -4,7 +4,9 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-/**https://www.hackerrank.com/challenges/acm-icpc-team/problem*/
+/**
+ * https://www.hackerrank.com/challenges/acm-icpc-team/problem
+ */
 
 public class ACMICPCTeam {
     static class Pair<A, B> {
@@ -43,5 +45,8 @@ public class ACMICPCTeam {
         int maxT = data.stream().max((a,b) -> a-b).orElseThrow(RuntimeException::new);
         int maxG = (int) data.stream().filter(n -> n == maxT).count();
         return new int[]{ maxT, maxG };
+    }
+    public static void main(String[] args) {
+        acmTeam(new String[] {"10101", "11110", "00010"});
     }
 }
